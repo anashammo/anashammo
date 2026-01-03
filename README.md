@@ -4,8 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anashammo&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashammo&label=Profile views&color=0e75b6&style=flat" alt="anashammo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashammo" alt="anashammo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anas_hammo" target="blank"><img src="https://img.shields.io/twitter/follow/anas_hammo?logo=twitter&style=for-the-badge" alt="anas_hammo" /></a> </p>
