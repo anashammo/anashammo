@@ -2,6 +2,8 @@
 
 ### Technical Consultant/Solutions Architect 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anashammo)](https://github.com/anashammo/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anashammo&label=Profile views&color=0e75b6&style=flat" alt="anashammo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashammo" alt="anashammo" /></a> </p>
