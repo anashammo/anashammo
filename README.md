@@ -2,7 +2,7 @@
 
 ### Technical Consultant/Solutions Architect 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashammo&label=Profile views&color=0e75b6&style=flat" alt="anashammo" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=anashammo&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashammo" alt="anashammo" /></a> </p>
 
