@@ -35,9 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-wheat-omega-50.vercel.app/api?username=anashammo&show_icons=true&locale=en" alt="anashammo" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashammo" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anashammo)
 
 
 
